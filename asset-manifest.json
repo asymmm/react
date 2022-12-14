@@ -1,0 +1,32 @@
+{
+  "files": {
+    "main.css": "/static/css/main.4486004d.css",
+    "main.js": "/static/js/main.de32be51.js",
+    "static/js/787.643d7aa9.chunk.js": "/static/js/787.643d7aa9.chunk.js",
+    "static/media/tutor-4.png": "/static/media/tutor-4.45b638676757fc062aa7.png",
+    "static/media/tutor-1.png": "/static/media/tutor-1.53eff9133ef0156bdcca.png",
+    "static/media/tutor-2.png": "/static/media/tutor-2.ec84b22341fc51dfa194.png",
+    "static/media/tutor-6.png": "/static/media/tutor-6.8c0c4fda5d48dbd71a41.png",
+    "static/media/tutor-5.png": "/static/media/tutor-5.fc327d31f31ad6be6f79.png",
+    "static/media/tutor-3.png": "/static/media/tutor-3.1567c68d98482d929419.png",
+    "static/media/course-4.svg": "/static/media/course-4.e17aad9aafb96ff545793ae231bd7a16.svg",
+    "static/media/course-1.svg": "/static/media/course-1.582d0da84ba371305353d5ffc647c54d.svg",
+    "static/media/course-6.svg": "/static/media/course-6.f887e87acf2f7e65d4e6aa073baa1f98.svg",
+    "static/media/course-5.svg": "/static/media/course-5.b0358a309b6eaed9d313e333184abd98.svg",
+    "static/media/course-3.svg": "/static/media/course-3.a939f3871969df23210b3c39d3c79556.svg",
+    "static/media/about-img.svg": "/static/media/about-img.1daad975f4e61b16f1ccefc9203943ff.svg",
+    "static/media/course-2.svg": "/static/media/course-2.af34e4feca2e5e7faa73f162ee18eec8.svg",
+    "static/media/homg-img.svg": "/static/media/homg-img.7272db4b88691b0c16cc9df1d1781902.svg",
+    "static/media/logo.svg": "/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
+    "static/media/left-arrow.svg": "/static/media/left-arrow.53878c51904c34f1288e46174c107c57.svg",
+    "static/media/right-arrow.svg": "/static/media/right-arrow.8b8fb639d7ed68731e5b073c0700d3bf.svg",
+    "index.html": "/index.html",
+    "main.4486004d.css.map": "/static/css/main.4486004d.css.map",
+    "main.de32be51.js.map": "/static/js/main.de32be51.js.map",
+    "787.643d7aa9.chunk.js.map": "/static/js/787.643d7aa9.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.4486004d.css",
+    "static/js/main.de32be51.js"
+  ]
+}
